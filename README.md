@@ -36,3 +36,14 @@ if 5>0:
  print("happy wife happy life")
 
 ```
+
+tabla de verdad
+
+a | b | a and b
+--|---|--------
+V | V | V
+V | F | F
+F | V | F
+F | F | F
+
+😼 🩰 :octocat: 
