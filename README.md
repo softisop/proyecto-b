@@ -18,4 +18,12 @@ Aspectos Básicos de la Computación
   listas numeradas
   1. uno
   2. dos
-     2.1. lero
+     
+ejemplo de un parrafo textual
+> * hacer preguntas es una señal de que se piensa *
+>       R. Tagore
+
+lista de tareas
+- [x] Crear el archivo README
+- [x] Subirlo a GitHub
+- [x] Terminar la clase 
