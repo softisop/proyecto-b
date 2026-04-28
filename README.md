@@ -1,4 +1,4 @@
-#Registro clase ABC grupo b
+# Registro clase ABC grupo b
 
 
 Este es un repositorio de práctica para el grupo B de 
