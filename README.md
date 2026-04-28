@@ -13,4 +13,9 @@ Aspectos Básicos de la Computación
  la lista se crea con viñetas 
  * item 1
  * item 2
-   * item 1 en item 2 
+   * item 1 en item 2
+
+  listas numeradas
+  1. uno
+  2. dos
+     2.1. lero
