@@ -26,4 +26,13 @@ ejemplo de un parrafo textual
 lista de tareas
 - [x] Crear el archivo README
 - [x] Subirlo a GitHub
-- [x] Terminar la clase 
+- [x] Terminar la clase
+
+ejemplo de una sección de código 
+
+```python
+print("Misty")
+if 5>0:
+ print("happy wife happy life")
+
+```
